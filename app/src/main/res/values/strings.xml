@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fetch Rewards</string>
+    <string name="id">ID</string>
+    <string name="name">Name</string>
+    <string name="listId">ListId:</string>
+    <string name="groupBy">Group By</string>
+</resources>
